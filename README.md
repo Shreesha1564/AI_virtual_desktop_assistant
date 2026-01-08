@@ -2249,5 +2249,4 @@ We've built this with passion to create the best open-source virtual assistant f
 
 ---
 
-*"The future is voice-activated, and it starts with ADVA!"*#   M y   c u s t o m i z e d   v e r s i o n  
- 
+*"The future is voice-activated, and it starts with ADVA!"*
